@@ -9,7 +9,6 @@ export default defineConfig({
       bundler: 'vite',
       viteConfig,
     },
-    supportFile: false,
   },
 
   e2e: {
@@ -17,6 +16,5 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    supportFile: false,
   },
 });

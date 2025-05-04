@@ -22,6 +22,7 @@ Download the file and extract data
 
 ## Usage
 in the terminal, run npm run render-build, npm run seed, and npm run test. For E2E testing, please be sure to run npm run start:dev as well
+Video Here!!! : https://drive.google.com/file/d/1VKiRYC-6v2V5rphDAIV6UDI_nxR4O2CA/view?usp=sharing 
 
 ## Contribution
 Keep credits in comments

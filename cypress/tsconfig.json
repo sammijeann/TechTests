@@ -9,6 +9,7 @@
       "composite": true,
       "jsx": "react-jsx"
     },
-    "include": ["**/*.tsx", "**/*.ts", "**/*.js", "**/*.jsx", "cypress/**/*.ts"]
+    "include": ["**/*.tsx", "**/*.ts", "**/*.js", "**/*.jsx", "../cypress/**/*.ts", "../client/src/components/**/*.tsx", 
+    "../cypress/**/*.ts",]
   }
   
